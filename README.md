@@ -34,6 +34,30 @@ git clone https://github.com/yourusername/login_formular.git
 ```    
 ---
 
+## 🔐 Features
+
+* Secure registration with form validation,
+
+* Passwords hashed using password_hash(),
+
+* Login with secure password_verify(),
+
+* Sessions to manage login state,
+
+* SQL Injection protection via prepared statements
+
+## 🧩 Technologies Used
+
+* PHP,
+
+* MySQL (via phpMyAdmin),
+
+* Bootstrap 5,
+
+* HTML/CSS,
+
+* VS Code + PHP Extension,
+
 ## 📁 Folder Structure
 
 ```plaintext
